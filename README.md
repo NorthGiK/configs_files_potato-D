@@ -1,2 +1,5 @@
-# configs_files_potato-D
-just my configs for my home pc
+## just my configs for my home pc
+* shell
+* terminal
+* code redactor
+* all apps me need
