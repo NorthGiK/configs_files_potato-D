@@ -1,0 +1,13 @@
+curl
+zsh
+firefox
+gnome-tweaks
+vim
+neovim
+telegram-desktop
+python3
+python-pip
+mypy
+go
+clang
+fzf
